@@ -11,4 +11,5 @@ Following are the high level deliverables of the project:
 
 3- Conduct a training for end-users describing the system resulted tools and techniques.
 # Project High-level Schedule:
-The high level plan for project schedule is to be completed within 3 months.
+This project took 3 months and helped 10,000 students to apply for funds via this integration project.
+
